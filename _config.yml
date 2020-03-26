@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Robotics Blog
+email:       ___
+author:      Emir Ljuca
+description: "blah blah blah."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://emirljuca.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -39,10 +39,6 @@ fb_page_id:
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
-
-# txtpen post comments
-# (leave blank to disable txtpen)
-txtpen_sitename:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -129,4 +125,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Rakefile
+  - README.md
+  - screenshot.png
   - vendor
