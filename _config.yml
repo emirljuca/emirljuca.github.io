@@ -3,6 +3,7 @@ title:       Robotics Blog
 email:       ___
 author:      Emir Ljuca
 description: "blah blah blah."
+baseurl:     ""
 url:         "https://emirljuca.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
