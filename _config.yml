@@ -1,8 +1,8 @@
 # Site settings
 title:       Robotics Blog
-email:       ___
+email:       eljuca.website@gmail.com
 author:      Emir Ljuca
-description: "blah blah blah."
+description: "An assortment of content on robotics and myself"
 baseurl:     ""
 url:         "https://emirljuca.github.io"
 date_format: "%b %-d, %Y"
