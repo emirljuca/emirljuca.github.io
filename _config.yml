@@ -14,16 +14,16 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: XX-XXXXXXXX-X
+google_analytics:
 google_tag_manager:
 # Bing services
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -47,10 +47,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-reddit_username:
+github_username: emirljuca
+reddit_username: emirljuca
 bitbucket_username:
-stackoverflow_id:
+stackoverflow_id: Interlooper
 twitter_username:
 skype_username:
 steam_nickname:
