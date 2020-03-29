@@ -1,94 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: Summary
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hello everyone, I’d like to start off by saying welcome and I am so happy for you to be reading this. I want you to enjoy what you read, have some good thoughts about what you see, and feel free to contact me for any other ideas that you might want me to write about. If you find something that doesn’t really make sense or if you see something wrong with what I have written please let me know, I do this for your pleasure.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Consider this a mad man’s thoughts of how robots and “smart” devices could take over our world. Every day, as new technologies and designs allow for manufacturing to be cheaper and allow some fairly amazing devices to be available to consumers, we go into an age where robots and smart devices are seen throughout our lives. This blog’s purpose is to have summaries, ideas, and detailed research about anything that relates to robotics but more specifically automation and usage of everyday devices. For each article, I will start off by introducing the topic as a general problem set, I then try to wrap my head around the topic in terms of what I could see it be used for with robots or devices, and lastly I explain what is actually out there with possible references to what I wanted it for. I then wrap up by advertising my own or other content and ask about what else might be interesting for people to read.
 
-Thanks to the following:
+I will try to be active on other community websites as well so you might see me there with screen name “Interlooper”. The communities I am active under are linked below. If you have any questions or maybe some interesting offers, you can email me here:.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Thanks so much and enjoy,
 
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+Emir Ljuca
