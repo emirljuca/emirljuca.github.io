@@ -8,6 +8,7 @@ url:         "https://emirljuca.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - me.md
  - contact.html
 
 # Google services

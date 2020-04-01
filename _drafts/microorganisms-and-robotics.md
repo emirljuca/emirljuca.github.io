@@ -7,7 +7,8 @@ summary: How energy systems in microorganisms might look like in a parallel univ
 categories: microorganisms energy robots
 ---
 
-![L'atmosphère: météorologie populaire (1888)](/assets/{{ page.image-dir }}/image_1.png)!
+![L'atmosphère: météorologie populaire (1888)](/assets/{{page.image-dir}}/image_1.png)
+*L'atmosphère: météorologie populaire (1888)*
 
 I have been thinking a lot about how automatic systems we build resembles natural systems. A complex organization of metal and silicon that is able to move around and learn its surroundings. Automation is a unique thing which is created by humans that does things without the need of human intervention. As a parallel, living beings move and learn their surroundings and form complex chemical structures.
 
@@ -23,50 +24,25 @@ Autotrophs gain energy through external nonliving systems, be it electromagnetic
 
 What if there were robots that existed in our world that tended toward environments where they can gain energy. Solar celled robots traveling to deserts to graze on sunlight, robots with large windmill generators finding places of high wind, or robots that parasitically gain energy from wifi or radio signals, these could be possible futures of robots that acted toward gaining energy in their environment. Compared to living beings, there are actually a huge amount of energy capturing mechanisms we could put on a self sustaining robot. This area of research is called energy harvesting and energy scavenging, and there are thousands of papers on energy harvesting (About 31,300 results from google scholar). A quick list of different ways to harvest energy and an awesome graphic of the different ways it could be harvested is shown in this paper on Microwave Antennas for Energy Harvesting Applications.
 
-Energy harvesting technique 
-Power density
-Efficiency
-Photovoltaic
-Outdoors (direct Sun): 15 mW/cm2 Outdoors (cloudiy): 0.15 mW/cm2 Indoors: <10 µW/cm2
-Highest 32±1.5%
-Typical 25±1.5%
-Thermoelectric
-Human: 30 µW/cm2/industrial: 1:10 mW/cm2
-±0.1% ±3.5%
-Pyroelectric
-8.64 µW/cm2 at the temperature rate of 8.5°C/s
-3.5%
-Piezoelectric
-250 µW/cm2/330 µW/cm2
+|Energy harvesting technique|Power density|Efficiency|
+|---|---|---|
+|Photovoltaic|Outdoors (direct Sun): 15 mW/cm2, Outdoors (cloudiy): 0.15 mW/cm2, Indoors: <10 µW/cm2|Highest 32±1.5% Typical 25±1.5%|
+|Thermoelectric|Human: 30 µW/cm2/industrial: 1:10 mW/cm2|±0.1% ±3.5%|
+|Pyroelectric|8.64 µW/cm2 at the temperature rate of 8.5°C/s|3.5%|
+|Piezoelectric|250 µW/cm2/330 µW/cm2||
+|Electromagnetic|Human motion: 1–4 µW/cm2||
+|Electrostatic|50–100 µW/cm2||
+|RF|GSM900/1800 MHz: 0.1 µW/cm2, Wi-Fi 2.4 GHz: 0.01 µW/cm2|50%|
+|Wind|380 µW/cm2 at the speed of 5 m/s|5%|
+|Acoustic noise|0.96 µW/cm2 at 100 dB/0.003 µW/cm2 at 75 dB||
+|<td colspan=3>Maximum power and efficiency are source dependent — excluding transmisssion efficiency.</td>
 
-
-Electromagnetic
-Human motion: 1–4 µW/cm2
-
-
-Electrostatic
-50–100 µW/cm2
-
-
-RF
-GSM900/1800 MHz: 0.1 µW/cm2
-Wi-Fi 2.4 GHz: 0.01 µW/cm2
-50%
-Wind
-380 µW/cm2 at the speed of 5 m/s
-5%
-Acoustic noise
-0.96 µW/cm2 at 100 dB/0.003 µW/cm2 at 75 dB
-
-
-Maximum power and efficiency are source dependent — excluding transmisssion efficiency.
 Noise power densities are theoritical values.
 Table 1.
 Power density and efficiency of energy harvesting techniques.
 
-
-Figure 1.
-Example of the different radiating sources
+![image_2](/assets/{{page.image-dir}}/image_2.png)
+*Example of the different radiating sources*
 
 Analyzing the different power producing energy capturing methods, it’s clear that solar energy is the largest. As a parallel, living organisms also would gain energy in some similar ways. For chlorophyll, by converting the photons into glucose, its efficiency for the right wavelengths of light is at ~30% but the actual efficiency for the solar energy our sun outputs is at around 3%-6%. The energy created in most efficient conversion is glucose, which acts as the cell’s energy storage system. When the cells need to use the stored energy, they convert the stored glucose into ATP, a molecule which aids in doing a variety of things in the cell. This conversion of glucose to ATP has an efficiency of around 38% which gives an overall energy efficiency of 0.7%-2.3% (multiplying the sun efficiency by the Glucose->ATP efficiency). When compared to solar panels built by humans, our solar cells are much more efficient grabbing a larger frequency of light giving a typical efficiency of 25% and the efficiency of battery storage and usage is at around 90% for most batteries only if battery charge and discharge rates are controlled as shown in this peer reviewed study. This gives an overall efficiency of 23% which is about 10x more efficient than biological systems.
 The increased efficiency gives robots an edge when it comes to harvesting energy from its environment however to be a true autotroph, or self reliant system, it needs to be able to recreate the solar cells itself. This process is quite complicated and would deserve an article on its own, but it would behove us to at least find how much energy does it take to create one solar cell with a cm^2 area. There are quite a few articles on this and the process has been getting better slowly, but here are some graphics that help quite a bit with the analysis.
